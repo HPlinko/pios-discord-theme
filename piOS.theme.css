@@ -16,7 +16,7 @@
 :root {
     --pios-glow-intensity:  1;
     --pios-spacing:         1;
-    --pios-accent-hue:      360;
+    --pios-accent-hue:      0;
     --pios-title-text:      "Discord v0.1.8b (Preview version, expect bugs!)";
 
     --crt-stripe:   block;
